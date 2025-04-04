@@ -4,7 +4,7 @@
 ## Installation
 To install Neofire use wget to grab main.py
 ```
-wget https://github.com/Skj0nes-2/Neoguess/raw/refs/heads/main/neoguess
+wget https://github.com/Skj0nes-2/Neoguess/releases/download/Neoguess/neoguess
 ```
 
 ## How to use
