@@ -4,7 +4,7 @@ import itertools
 import re
 charIn = input('All Characters: ') # Ask for characters to use
 length = int(input('Combo Length: ')) # Ask for desired length of combos
-print('Total Combos: '+str(len(charIn)**length))
+print('Total Combos: '+str(len(charIn)**length)) # Print total number of combinations
 chars = [char for char in charIn] # Seperate characters into list
 result = []
 for _ in range(length):
