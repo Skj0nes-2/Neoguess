@@ -2,7 +2,7 @@
 ### The Most Advanced Combo Finder
 
 ## Installation
-To install Neofire use wget to grab main.py
+To install Neoguess use wget to grab main.py
 ```
 wget https://github.com/Skj0nes-2/Neoguess/releases/download/1.0.0/neoguess
 ```
