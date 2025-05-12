@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 # Made by Skj0nes-2
 from itertools import product; from re import sub; from os import getcwd;
 seen = set(); digit_list = []; combos = '' # Set Default Variables
