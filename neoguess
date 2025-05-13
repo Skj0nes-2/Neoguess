@@ -1,8 +1,11 @@
 #!/usr/bin/env python3
 # Made by Skj0nes-2
-from itertools import product; from re import sub; from os import getcwd;
+from sys import argv; from itertools import product; from re import sub; from os import getcwd;
 seen = set(); digit_list = []; combos = '' # Set Default Variables
-digits = list(input('Combo Characters: ')); combo_len = int(input("Combo Length: ")) # Input
+if len(argv) != 3:
+  digits = list(input('Combo Characters: ')); combo_len = int(input("Combo Length: ")) # Input
+else:
+  digits = argv[1]; combo_len = int(argv[2])
 # Remove Duplicates
 for item in digits:
   if item not in seen:
