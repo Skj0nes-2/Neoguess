@@ -2,7 +2,7 @@
 ### The Most Advanced Combo Finder
 
 ## Installation
-To install Neoguess, use wget to grab the main script.
+To install Neoguess, use wget to grab the installer.
 ```
 wget https://github.com/Skj0nes-2/Neoguess/releases/download/1.5.0/MakeFile
 ```
