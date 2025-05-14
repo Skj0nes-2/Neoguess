@@ -4,7 +4,7 @@
 ## Installation
 To install Neoguess, use wget to grab the installer.
 ```
-wget https://github.com/Skj0nes-2/Neoguess/releases/download/1.5.0/MakeFile
+wget https://github.com/Skj0nes-2/Neoguess/releases/download/1.5.0/Makefile
 ```
 Then install Neoguess,
 ```
